@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barkatul mujauddin
-- 👀 I’m interested in android 
-- 🌱 I’m currently learning data structure and algorithm
+- 👀 I’m interested in devOps 
+- 🌱 I’m currently learning DSA and DevOps
 - 📫 How to reach me ?
      Twitter - https://twitter.com/barkatul_20
      Linkedin - https://www.linkedin.com/in/barkatul-mujauddin-3a67771b8/
