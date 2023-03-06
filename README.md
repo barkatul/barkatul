@@ -35,11 +35,12 @@
 
 ### :man_technologist: About Me :
 
-- 🏫 sophomore undergrad
-- ⛵ **GSSoC'22** Contributor
+- 🏫 pre-final year
+- ⛵ **GSoC'23** Mentor
+- 🌱 **DevOps**
+- ✨ **Android Developer** 
 - ✅ **DSA**
-- 🌱 Learning **DevOps**
-- ✨ **Android Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 
